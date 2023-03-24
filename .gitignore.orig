@@ -1,0 +1,8 @@
+toDel.txt
+access.log
+log/
+*.orig
+<<<<<<< HEAD
+simple.html
+=======
+>>>>>>> newBranch

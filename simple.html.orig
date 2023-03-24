@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!-- copy right 2014 Git.Training -->
+
+<head>
+<<<<<<< HEAD
+	<title>This is respectul title</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+=======
+	<title>A great Website </title>
+	<link rel="stylesheet" href="css/bootstrap.min.css"> 
+>>>>>>> realwork
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			This is i (kartik) is chaning to master branch to see what happens when i merge to realwork branch
+=======
+			Content has been changed by kartik!!
+>>>>>>> realwork
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Kartik company</p>
+	</footer>
+</body>
+</html>
