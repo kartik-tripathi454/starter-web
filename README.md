@@ -18,4 +18,4 @@ or even local file system.
 Please fork this repository and then issue pull Request for review.
 
 ## Copyright
-2014 git.Training.
+2014 git.Training. Allrights reserved.
