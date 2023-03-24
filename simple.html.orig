@@ -1,14 +1,20 @@
 <!DOCTYPE html>
-<!-- copy right 2014 Git.Training -->
+<!-- copy right 2014 Git.Training
+<<<<<<< HEAD
+	 Adding changes before rebasing 	 conflicts
+	 some silly changes!!-->
+=======
+	 Adding changes before rebasing 	 conflicts.
+		Making some simple changes just for conflict rebase example.-->
+>>>>>>> ba28c64 (fb adding some trouble to simple.html)
 
 <head>
-<<<<<<< HEAD
-	<title>This is respectul title</title>
+	<title>my new title on newBranch</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
-=======
 	<title>A great Website </title>
 	<link rel="stylesheet" href="css/bootstrap.min.css"> 
->>>>>>> realwork
+	<title>This is respectul title</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
 			padding-top: 50px;
@@ -22,10 +28,10 @@
 	<!-- Content Goes Here -->
 		<p>
 <<<<<<< HEAD
-			This is i (kartik) is chaning to master branch to see what happens when i merge to realwork branch
+			this is also conflicting changes for trouble branch.
 =======
-			Content has been changed by kartik!!
->>>>>>> realwork
+			Just nothing but truble!!
+>>>>>>> ba28c64 (fb adding some trouble to simple.html)
 		</p>
 	</main>
 	<footer class="container">
